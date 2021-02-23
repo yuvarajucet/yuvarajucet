@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Youtube: <a href="https://youtube.com/c/Mr3rr0r501">@Mr_3rr0r_501</a>...
 - ⚡ Fun fact: Do anything funny, it make's you funny ...
 
-![](https://github-readme-stats.vercel.app/api?username=yuvarajucet&theme=light&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=ff0000&bg_color=d0d0d0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvarajucet&layout=compact&theme=light&show_icons=true&title_color=151515&icon_color=FFFFFF&text_color=ff0000&bg_color=d0d0d0)
+![](https://github-readme-stats.vercel.app/api?username=yuvarajucet&theme=light&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvarajucet&layout=compact&theme=dark&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
