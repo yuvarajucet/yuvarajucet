@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working : No work baby 🔭
+- 🔭 I’m currently working : Bug hunter 🔭
 - 🌱 I’m currently learning Pentesting 🌱
 - 👯 I’m looking to collaborate on Web pentesters 👯
 - 💬 Ask me about Something Intresting 💬
