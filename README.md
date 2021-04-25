@@ -1,4 +1,4 @@
-### Hey dude | I am Mr_3rr0r_501 👋
+### Hey dude | I am Yuvaraj A.K.A Mr_3rr0r_501 👋
 
 <!--
 **yuvarajucet/yuvarajucet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
