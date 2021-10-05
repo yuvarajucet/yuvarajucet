@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working : Bug hunter 🔭
 - 🌱 I’m currently learning Pentesting 🌱
-- 🏁 I’m CTF player 🏁
+- 🏁 CTF player 🏁
 - 📫 How to reach me: <a href="https://instagram.com/mr_3rr0r_501">@Mr_3rr0r_501</a> [instagram] 📫
 - 😄 Youtube: <a href="https://youtube.com/c/Mr3rr0r501">@Mr_3rr0r_501</a>😄
 
