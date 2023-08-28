@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working : Bug hunter 🔭
+- 🔭 I’m currently working : Developer 🔭
 - 🌱 I’m currently learning Pentesting 🌱
 - 🏁 CTF player 🏁
 - 📫 How to reach me: <a href="https://instagram.com/mr_3rr0r_501">@Mr_3rr0r_501</a> [instagram] 📫
